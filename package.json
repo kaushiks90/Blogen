@@ -1,7 +1,7 @@
 {
-  "name": "bs4startup",
+  "name": "Blogen",
   "version": "1.0.0",
-  "description": "Bootstrap4WorkFlow",
+  "description": "Blogen",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
